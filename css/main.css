@@ -1,0 +1,26 @@
+<style>
+            #cta{
+                background-color: #dddddd;
+                padding:20px;
+                text-align: center;
+                margin: 0px;
+            }
+
+            h1{
+                color:#0f0;
+                font-size:90px;
+                text-align: center;
+            }
+            header{background: #1C1717
+            }
+            body{background-color: lightgrey;}
+			}
+
+			ul{
+				list-style-type: none;
+				margin:0;
+				padding:0; 
+			}
+			li{
+				display: block;
+				widows: 50px;
